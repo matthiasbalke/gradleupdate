@@ -1,0 +1,6 @@
+debug: true
+
+logging:
+  level:
+    # Spring MVC logging
+    org.springframework.web: DEBUG
